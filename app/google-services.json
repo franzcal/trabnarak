@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "177284752214",
+    "project_id": "catobras-49305",
+    "storage_bucket": "catobras-49305.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177284752214:android:e51995150d019c1573acf7",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgpI85Cdz6R5ePENHyJXwkaavjtVsRFls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
